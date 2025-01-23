@@ -1,3 +1,0 @@
-displayName = Secrets of Abyss
-author = Void2
-version = 0.3
