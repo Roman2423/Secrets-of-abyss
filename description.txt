@@ -1,5 +1,5 @@
 Mod about ocean expansion(and maybe rework shimmer(not how it's works))
-Features:
+Features(in 0.4):
 -1 PreH-Bosses
 -10 Items
 -5 enemy's
